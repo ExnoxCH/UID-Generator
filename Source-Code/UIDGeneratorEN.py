@@ -181,7 +181,7 @@ if args == ["--create"]:
         WARN("UID ALREADY EXISTS ON THIS DEVICE!")
         sys.exit(0)
 
-    print(f"\n{Fore.CYAN}{BOLD} SELECT EXPIRATION UNIT (Default amount: 1):{RESET}")
+    print(f"\n{Fore.CYAN}{BOLD} SELECT EXPIRATION UNIT (DETIK-TAHUN):{RESET}")
     print(f" 1. Seconds  2. Minutes  3. Hours")
     print(f" 4. Days     5. Months   6. Years")
 
