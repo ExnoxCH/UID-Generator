@@ -29,6 +29,10 @@ python generateUID.py --renew <PASSWORD>
 ```bash
 python generateUID.py --show-password
 ```
-
+## Command to run .so file
+Just change the name of the .so file
+```bash
+python3 -c "import UIDGenerator"
+```
 ## Screenshot
 ![Screenshot](.assets/ss.png)
