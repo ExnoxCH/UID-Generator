@@ -31,4 +31,4 @@ python generateUID.py --show-password
 ```
 
 ## Screenshot
-![Screenshot](.assets/1.png)
+![Screenshot](.assets/ss.png)
