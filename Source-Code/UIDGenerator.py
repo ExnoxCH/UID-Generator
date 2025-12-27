@@ -198,7 +198,7 @@ if args == ["--create"]:
         WARN("UID SUDAH ADA DI PERANGKAT INI!")
         sys.exit(0)
 
-    print(f"\n{Fore.CYAN}{BOLD} PILIH SATUAN WAKTU (Default jumlah: 1):{RESET}")
+    print(f"\n{Fore.CYAN}{BOLD} PILIH SATUAN WAKTU (DETIK-TAHUN):{RESET}")
     print(f" {Fore.WHITE}1. Detik   2. Menit   3. Jam")
     print(f" {Fore.WHITE}4. Hari    5. Bulan   6. Tahun")
 
