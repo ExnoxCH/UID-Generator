@@ -10,7 +10,7 @@ A powerful Python-based security tool to generate unique, hardware-bound UIDs fo
 * **Hardware Binding**: UIDs are uniquely generated based on device fingerprinting (OS, Hostname, Architecture).
 * **Dynamic Expiration**: Custom time duration from Seconds, Minutes, Hours, Days, Months, to Years.
 * **XOR Encryption**: Protects UID passwords using XOR encryption and Base64 encoding.
-* **Responsive Progress Bar**: Beautiful terminal UI that adapts to your screen size (Termux/Linux/PC).
+* **Progress Bar**: Beautiful terminal UI that adapts to your screen size (Termux/Linux/PC).
 
 ⚙️ Usage:
 1. Generate new UID
