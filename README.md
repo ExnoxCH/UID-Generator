@@ -6,6 +6,9 @@
 
 A powerful Python-based security tool to generate unique, hardware-bound UIDs for device authentication. It features a built-in time-based access control system to manage and restrict device-specific entry.
 
+## ⚠️Warning: 
+As the creator of this script, I do not recommend that you use this UID for websites or applications, because the password is easy to crack, the password uses XOR and Base64.
+
 ### 🚀 Key Features
 * **Hardware Binding**: UIDs are uniquely generated based on device fingerprinting (OS, Hostname, Architecture).
 * **Dynamic Expiration**: Custom time duration from Seconds, Minutes, Hours, Days, Months, to Years.
